@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilshan Sathsara</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvdsathsara&label=Profile%20views&color=0e75b6&style=flat" alt="kvdsathsara" /> </p>
@@ -6,6 +10,17 @@
 - 📫 How to reach me **sathsaradilshan31@gmail.com**
 
 - ⚡ Fun fact **Call me as Sathsara**
+
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   
+</div>
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
